@@ -1,6 +1,8 @@
 venv/
 .env
 .db
-.sqlite
-.sqlite-shm
-.sqlite-wal
+*.sqlite
+*.sqlite-shm
+*.sqlite-wal
+*.db
+*.pdf
