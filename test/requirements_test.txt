@@ -1,0 +1,4 @@
+# Test dependencies for API endpoint testing
+requests>=2.31.0
+pytest>=7.4.0
+reportlab>=4.0.0

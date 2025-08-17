@@ -1,0 +1,28 @@
+# Web Framework
+fastapi
+uvicorn
+
+# LangChain & Related
+langgraph
+langchain>=0.3.27
+langchain-openai>=0.3.28
+langchain-core>=0.3.74
+pydantic>=2.0.0
+langgraph-checkpoint-sqlite
+
+# Database
+sqlalchemy
+
+# System monitoring
+psutil
+
+# Visualization
+matplotlib
+networkx
+
+# Testing Interface
+gradio
+
+# PDF Processing
+pdf2image
+openai
